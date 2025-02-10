@@ -1,5 +1,5 @@
 # Password_Generator
-Password generator using java
+Password generator using java, 
 This project is a Java Console Application to generate random passwords and perform password strength checks.
 
 Introduction
